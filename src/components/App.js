@@ -1,12 +1,12 @@
 import React from "react";
-import Team from "./Team";
+import Family from "./Family";
 import Header from "./Header";
 
 function App() {
   return (
     <div className="container">
       <Header />
-      <Team />
+      <Family />
     </div>
   );
 }
