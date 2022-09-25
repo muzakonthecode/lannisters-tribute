@@ -1,0 +1,29 @@
+.container {
+  margin-top: 20px;
+}
+
+h2 {
+  margin-left: 20px;
+}
+
+#header img {
+  margin-right: 20px;
+}
+
+#header {
+  background-color: #781a1d;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 25vw;
+  object-fit: cover;
+}
+
+.card {
+  margin-top: 20px;
+}
+
+.height {
+  height: 10px;
+}
