@@ -1,6 +1,6 @@
 import React from "react";
 
-function TeamMember(props) {
+function FamilyMember(props) {
   return (
     <div className="col-md-4 col-sm-4">
       <div className="card">
@@ -20,4 +20,4 @@ function TeamMember(props) {
   );
 }
 
-export default TeamMember;
+export default FamilyMember;
